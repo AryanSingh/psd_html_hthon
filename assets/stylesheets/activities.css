@@ -1,0 +1,24 @@
+#activities {
+  width: 100%;
+  background-color: #FFFFFF; }
+  #activities .col-sm-3 {
+    padding: 0; }
+  #activities .middling {
+    text-align: center;
+    padding-top: 3em;
+    padding-bottom: 3em; }
+    #activities .middling h3 {
+      font-size: 1.1em;
+      font-weight: 300; }
+  #activities button {
+    background-color: rgba(114, 174, 210, 0.38);
+    color: #000;
+    margin: 1em 3em;
+    font-size: 1.5em;
+    border: 0;
+    border-radius: 1em;
+    padding: .1em 1em .1em 1em; }
+  #activities .centring {
+    text-align: center; }
+
+/*# sourceMappingURL=activities.css.map */

@@ -1,0 +1,29 @@
+#contribute {
+  height: 40vw;
+  background-color: #482583;
+  color: white; }
+  #contribute .donate {
+    padding-top: 15em;
+    text-align: center; }
+  #contribute .fa {
+    font-size: 2em;
+    color: #FFFFFF;
+    padding-left: 3em;
+    padding-right: 3em;
+    padding-top: 1em; }
+  #contribute .icons {
+    display: inline-block;
+    margin-top: 1em; }
+  #contribute button {
+    background-color: rgba(77, 26, 224, 0.49);
+    border: 0;
+    font-size: 1.5em;
+    border-radius: 1em;
+    padding: 0 .5em 0 .5em;
+    margin-top: 1em; }
+  #contribute .one {
+    margin-right: 2.5em; }
+  #contribute .three {
+    margin-left: 2.5em; }
+
+/*# sourceMappingURL=contribute.css.map */

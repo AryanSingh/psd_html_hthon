@@ -1,0 +1,16 @@
+#contact {
+  width: 100%;
+  height: 40vw;
+  background-color: #008982;
+  color: #ffffff; }
+  #contact .container-fluid {
+    text-align: center;
+    padding-top: 15em; }
+  #contact h1 {
+    font-weight: 700;
+    font-size: 5em; }
+  #contact i {
+    font-size: 3em;
+    margin: 1em 1em 1em 1em; }
+
+/*# sourceMappingURL=contact.css.map */

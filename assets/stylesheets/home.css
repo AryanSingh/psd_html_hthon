@@ -1,0 +1,23 @@
+#home {
+  width: 100%;
+  height: 50vw;
+  background-color: #FFFFFF;
+  color: #000;
+  background-image: url("../images/child.jpg");
+  background-size: cover; }
+  #home .zero_pad {
+    padding: 0; }
+  #home .container-fluid {
+    padding: 0; }
+  #home .carousel {
+    height: 50vw; }
+  #home .glyphicon-chevron-left {
+    left: 2em; }
+  #home .glyphicon-chevron-right {
+    right: 2em; }
+  #home .carousel-control {
+    width: 0%; }
+  #home .col-sm-5 {
+    top: 40%; }
+
+/*# sourceMappingURL=home.css.map */
